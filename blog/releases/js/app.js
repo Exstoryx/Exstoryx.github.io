@@ -4696,7 +4696,7 @@ webpackJsonp([1], {
                         staticClass: "about-me-wrap"
                     }, [i("div", {
                         staticClass: "about-me-head"
-                    }, [t._v("sss")]), t._v(" "), i("div", {
+                    }, [t._v("他与他")]), t._v(" "), i("div", {
                         staticClass: "about-me-body",
                         domProps: {
                             innerHTML: t._s(t.aboutCouple)
