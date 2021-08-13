@@ -28,19 +28,19 @@ webpackJsonp([1], {
         var n = i("7+uW"),
             s = i("woOf"),
             a = i.n(s),
-            o = "https://yjlaugus.gitee.io/blog",
+            o = "https://exstoryx.github.io/code",
             r = {
                 openDev: !1,
-                blogAcc: "cjunn",
-                blogId: "571504",
-                blogPostId: "12237892",
-                blogName: "C君",
-                blogUserGuid: "2476b4f3-9f13-4c75-389e-08d789d7fa8d",
-                blogIndexPath: "https://www.cnblogs.com/cjunn",
-                myGithub: "https://github.com/cjunn",
+                blogAcc: "The-Story",
+                blogId: "699396",
+                blogPostId: "15135060",
+                blogName: "Exstory",
+                blogUserGuid: "d175055c-2c53-44d6-96b4-08d95a4b5cdb",
+                blogIndexPath: "https://www.cnblogs.com/the-story",
+                myGithub: "https://github.com/Exstoryx",
                 manPage: "https://i.cnblogs.com/",
-                sendPage: "https://msg.cnblogs.com/send/cjunn",
-                subPage: "https://www.cnblogs.com/cjunn/rss",
+                sendPage: "https://msg.cnblogs.com/send/Exstory",
+                subPage: "https://www.cnblogs.com/the-story/rss",
                 pageItemImgs: 35,
                 pageBarImgs: 21,
                 commentLength: 10,
@@ -50,9 +50,9 @@ webpackJsonp([1], {
                 blogFriendList: [],
                 musicIds: ["1382596189", "108281"],
                 musicApiUrl: "https://api.i-meto.com/meting/api?server=netease&type=:type&id=:id&r=:r",
-                qq: "592571519",
-                email: "592571519@qq.com",
-                github: "cjunn",
+                qq: "1753585208",
+                email: "1753585208@qq.com",
+                github: "Exstory",
                 blogUsedLinks: [],
                 mainExtNav: [{
                     title: "主页",
@@ -64,7 +64,7 @@ webpackJsonp([1], {
                     icon: "iconheart"
                 },{
                     title: "仓库",
-                    url: "https://github.com/YJLAugus/",
+                    url: "https://github.com/Exstoryx/",
                     icon: "icongithub"
                 }, {
                     title: "留言",
@@ -79,11 +79,11 @@ webpackJsonp([1], {
                     url: "/c/subject/p/7857317.html",
                     icon: "iconziyuan"
                 }],
-                avatarSign: " ↗↗点击头像关注我。",
+                avatarSign: " ↗↗点击头像关注我",
                 headBackImg: "https://cjunn.gitee.io/blog_theme_atum/img/ing/autorbimg.jpg",
                 bigBackImg: "https://cjunn.gitee.io/blog_theme_atum/img/body/background.jpg",
                 aboutmeHtml: "<img src='https://cjunn.gitee.io/blog_theme_atum/img/ing/aboutme.jpg'/>",
-				aboutCouple: "<div class='textwidget'><div id='lovenyh' style='width: 100%; height: 100px; text-align: center; font-size: 1rem;'> <div id='lovenyhImage' style='width: 220px; margin: 0 auto;'><a href='https://yjlaugus.gitee.io/loveniuniu/' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/ll.jpg' alt='love' style='width: 60px; border-radius: 50%;'></a><a href='https://yjlaugus.gitee.io/loveniuniu/' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/z.webp' alt='love' style='width: 60px; border-radius: 50%;'></a><a href='https://yjlaugus.gitee.io/loveniuniu/' target='_blank'><img src='https://yjlaugus.gitee.io/blog/img/body/nn.jpg' alt='love' style='width: 60px; border-radius: 50%;'></a></div><p id='elapseClock' style='font-size: 0.8rem;    margin-top: 16px;  background: linear-gradient(to right, red, blue);-webkit-background-clip: text;color: transparent;'>我们相恋了(刷新页面看天数呀)</p></div></div>",
+				aboutCouple: "<img src='https://cjunn.gitee.io/blog_theme_atum/img/ing/aboutme.jpg'/>",
                 blogUrlPre: "https://www.cnblogs.com/",
 					faceIcon: [{
                     name: "头条",
@@ -201,7 +201,7 @@ webpackJsonp([1], {
                 name: "BrandName",
                 data: function() {
                     return {
-                        blogName: g.blogName + "博客"
+                        blogName: g.blogName + " 博客"
                     }
                 }
             },
@@ -1559,7 +1559,7 @@ webpackJsonp([1], {
                 name: "BrandTitle",
                 data: function() {
                     return {
-                        blogName: g.blogName + "博客"
+                        blogName: g.blogName + " 博客"
                     }
                 }
             },
@@ -3273,8 +3273,8 @@ webpackJsonp([1], {
                     return {
                         copyright: "Copyright © " + (new Date).getFullYear() + " " + g.blogName,
                         plugName: "c_blog",
-                        author: "cjunn",
-                        technology: "Powered by vue on cnblogs"
+                        author: "Exstory",
+                        technology: "Powered by VUE on cnblogs"
                     }
                 }
             },
@@ -4696,7 +4696,7 @@ webpackJsonp([1], {
                         staticClass: "about-me-wrap"
                     }, [i("div", {
                         staticClass: "about-me-head"
-                    }, [t._v("他与他")]), t._v(" "), i("div", {
+                    }, [t._v("今日运势")]), t._v(" "), i("div", {
                         staticClass: "about-me-body",
                         domProps: {
                             innerHTML: t._s(t.aboutCouple)
@@ -4798,8 +4798,8 @@ webpackJsonp([1], {
                 }
                 0 != M()("#shade_animal_wrap").length && (M()("#shade_animal_wrap")[0].addEventListener("transitionend", t), M()("#shade_animal_wrap")[0].addEventListener("webkitTransitionEnd", t), M()("#shade_animal_wrap").css("opacity", "0"))
             };
-        (window.currentBlogApp = window.currentBlogApp || "cjunn", window.currentBlogId = window.currentBlogId || "571504", new T.a(function(t, e) {
-            window.currentBlogApp && window.currentBlogId && g.autoInfoReset ? (g.blogAcc = window.currentBlogApp, g.blogId = window.currentBlogId, g.blogIndexPath = "https://www.cnblogs.com/" + g.blogAcc, g.myGithub = "https://github.com/" + g.blogAcc, g.sendPage = "https://msg.cnblogs.com/send/" + g.blogAcc, g.subPage = "https://www.cnblogs.com/" + g.blogAcc + "/rss", at.loadAuthorBlogInfo().then(function(e) {
+        (window.currentBlogApp = window.currentBlogApp || "Exstory", window.currentBlogId = window.currentBlogId || "571504", new T.a(function(t, e) {
+            window.currentBlogApp && window.currentBlogId && g.autoInfoReset ? (g.blogAcc = window.currentBlogApp, g.blogId = window.currentBlogId, g.blogIndexPath = "https://www.cnblogs.com/" + g.blogAcc, g.myGithub = "https://github.com/Exstoryx", g.sendPage = "https://msg.cnblogs.com/send/" + g.blogAcc, g.subPage = "https://www.cnblogs.com/" + g.blogAcc + "/rss", at.loadAuthorBlogInfo().then(function(e) {
                 g.blogName = e.username, g.blogUserGuid = e.guid, at.loadDefaultCategoryList(0).then(function(e) {
                     e.list.length > 0 && (g.blogPostId = e.list[0].pageId), t()
                 })
